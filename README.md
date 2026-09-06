@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Anurag 👋
 
-<!--
-**Anuragg26/Anuragg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Business Analyst
 
-Here are some ideas to get you started:
+M.Sc. Data Science | SQL | Power BI | MySQL | Excel | Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build data-driven solutions that turn business problems
+into actionable insights.
+
+## 🔎 What I Work With
+
+📊 Power BI
+🗄️ SQL / MySQL
+📈 Excel
+📋 Jira / Agile / Scrum
+☁️ AWS
+🐍 Python
+
+## 🚀 Featured Projects
+
+### LogiFlow — Delivery Operations Analytics
+105,000 delivery records analyzed to identify the
+root causes of late deliveries.
+
+SQL • MySQL • Power BI • DAX • Jira • Agile/Scrum
+
+### Berlin Rental Market Analysis
+Exploratory analysis of Berlin rental data.
+
+Python • Pandas • Matplotlib
+
+## 🎯 Career Focus
+
+Junior Data Analyst
+Business Analyst
+BI Analyst
+IT Business Analyst
+PMO / Project Coordinator
+
+## anuragg.panwarr@gmail.com
